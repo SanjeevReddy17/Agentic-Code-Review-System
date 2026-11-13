@@ -4,3 +4,4 @@ gunicorn
 python-dotenv
 requests
 google-genai
+reportlab
