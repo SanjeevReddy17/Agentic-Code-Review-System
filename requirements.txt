@@ -1,7 +1,0 @@
-flask
-flask-cors
-python-dotenv
-pylint
-bandit
-google-genai
-reportlab
