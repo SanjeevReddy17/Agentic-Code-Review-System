@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Database
+*.db
+
+# React
+node_modules/
+frontend/dist/
+
+# Generated reports
+backend/reports/
+reports/
+
+# Editor
+.vscode/
